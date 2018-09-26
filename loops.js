@@ -2,4 +2,4 @@ function forLoop(items){for(var i=0;i<25;i++){if(i==1){items.push("I am one stra
 
 function whileLoop(n){while(n>0){console.log(n);n--;if(n===0){console.log('Done');}}}
 
-function doWhileLoop(list)
+function doWhileLoop(list){
